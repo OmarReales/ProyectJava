@@ -1,4 +1,4 @@
-#**Proyecto Java: Sistema de Facturación**
+# **Proyecto Java: Sistema de Facturación**
 
 Este proyecto es un sistema de facturación simple, que permite gestionar clientes, productos y facturas. El backend está implementado en Java utilizando Spring Boot, JPA (Java Persistence API) para la persistencia de datos y una base de datos en memoria H2.
 
