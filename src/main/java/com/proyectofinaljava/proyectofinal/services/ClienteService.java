@@ -10,7 +10,7 @@ import com.proyectofinaljava.proyectofinal.model.Cliente;
 @Service
 public class ClienteService {
     @Autowired
-    ClienteRepository clienteRepository;
+    private ClienteRepository clienteRepository;
 
     public ClienteService(ClienteRepository clienteRepository) {
         this.clienteRepository = clienteRepository;
